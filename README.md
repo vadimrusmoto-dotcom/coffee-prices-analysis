@@ -28,4 +28,4 @@
 3. Запусти `forecast.py`
 
 ## 📬 Контакты
-[Вадим] — [vadimrusmoto@mail.ru]
+[Вадим] — [vad.litko@yandex.ru]
