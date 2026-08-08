@@ -18,10 +18,15 @@
   - Прогноз: снижение цен на 6% к декабрю 2026.
 
 ## Файлы
-- `forecast.py` — код для прогноза ARIMA
-- `coffee_forecast.csv` — результат прогноза
-- `dashboard_screenshot.png` — скриншот дашборда
-
+- `forecast_coffee_rf_ipnb.py` — код для прогноза ARIMA
+- `forecast_6m.csv` — результат прогноза
+- `analisys_coffee.ipynb` — базовый анализ данных с загрузкой, фильтрацией, построением графиков:
+  -Линейный график динамики цен
+  -Столбчатая диаграмма по годам
+  -Гистограмма распределения цен
+- `coffee_dashboard_overview.png` — скриншот дашборда
+- `coffee_dashboard_filtered.1.png` — скриншот дашборда
+- `coffee_dashboard_filtered.2.png` — скриншот дашборда
 ## Как запустить код
 1. Установи Python 3.8+
 2. Установи библиотеки: `pip install -r requirements.txt`
