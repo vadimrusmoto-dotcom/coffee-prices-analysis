@@ -30,5 +30,8 @@
 - `coffee_dashboard_filtered.1.png` — скриншот дашборда
 - `coffee_dashboard_filtered.2.png` — скриншот дашборда
 
+## Скрин дашборда
+<img width="3104" height="1601" alt="image" src="https://github.com/user-attachments/assets/18a8293a-458e-49d4-a407-47ca75cf5e35" />
+
 ## Контакты
 [Вадим] — [vad.litko@yandex.ru]
