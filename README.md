@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![DataLens](https://img.shields.io/badge/DataLens-Yandex-blue)
 # coffee-prices-analysis (2024-2026)
 ## Описание проекта
 Дашборд и анализ региональных цен на кофе в России. Выявлены аномалии, построен прогноз на 6 месяцев.
