@@ -29,10 +29,6 @@
 - `coffee_dashboard_overview.png` — скриншот дашборда
 - `coffee_dashboard_filtered.1.png` — скриншот дашборда
 - `coffee_dashboard_filtered.2.png` — скриншот дашборда
-## Как запустить код
-1. Установи Python 3.8+
-2. Установи библиотеки: `pip install -r requirements.txt`
-3. Запусти `forecast.py`
 
 ## Контакты
 [Вадим] — [vad.litko@yandex.ru]
